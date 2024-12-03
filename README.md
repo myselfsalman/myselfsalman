@@ -16,19 +16,23 @@ When I’m not coding, I love embracing the tranquility of **silence** and **nat
 
 ---
 
-## 💼 **My Skillset**
+## 💼 **My Skillset** 
+## 🛠️ Skills
 
-### Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-
-### Frameworks & Tools  
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+| **Category**                     | **Skills**                                                                                         |
+|-----------------------------------|---------------------------------------------------------------------------------------------------|
+| **Programming & Scripting**       | C, C++, Java, Python, PHP, JavaScript                                                             |
+| **Frameworks & Libraries**        | Django, Django RESTful APIs, React.js, Vite                                                      |
+| **Web Development**               | HTML, CSS, JavaScript, TypeScript, JWT Auth                                                      |
+| **Machine Learning & Deep Learning** | PyTorch, TensorFlow                                                                             |
+| **Mobile App Development**        | Android Studio (Java)                                                                            |
+| **Database Management**           | SQL, MySQL, Firebase, Supabase                                                                   |
+| **Data Processing Frameworks**    | PySpark                                                                                         |
+| **Graphics Programming**          | OpenGL                                                                                          |
+| **Networking Fundamentals**       | IP Addressing, Subnetting, Supernetting, DHCP                                                   |
+| **Software Testing**              | SDLC, STLC                                                                                      |
+| **Operating Systems**             | Windows, Linux (Ubuntu)                                                                         |
+| **Tools**                         | Git, GitHub, Postman                                                                             |
 
 ---
 
@@ -51,4 +55,7 @@ When I’m not coding, I love embracing the tranquility of **silence** and **nat
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmancse/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:salman.ndc1@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/engrsalman/)  
+[![beecrowd](https://img.shields.io/badge/-beecrowd-20C997?logo=codeforces&logoColor=white)](https://judge.beecrowd.com/en/profile/490697) 
+---
 
