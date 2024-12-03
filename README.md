@@ -1,6 +1,6 @@
 # 👋 Assalamualaikum, Myself Engr. Mohammad Salman. 
 
-🚀 **Software Engineering Undergraduate | Aspiring Full-Stack Developer | Tech Enthusiast**  
+🚀 **CS Engineering Graduate | Aspiring Full-Stack Developer | Tech Enthusiast**  
 🎓 **ACPS || NDC || DIU** | 📍 **Passionate about Clean Code, Client-Side Privacy, and DevOps**  
 
 ---
@@ -47,14 +47,7 @@ When I’m not coding, I love embracing the tranquility of **silence** and **nat
 
 ---
 
-## 📊 **GitHub Stats**
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
-
-## 🤝 **My Profiles!**
+## 🤝 **My Profiles**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmancse/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:salman.ndc1@gmail.com)
