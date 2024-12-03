@@ -1,4 +1,4 @@
-# 👋 Assalamualaikum, Myself Engr. Mohammad Salman. 
+# Assalamualaikum, Myself Engr. Mohammad Salman. 
 
 🚀 **CS Engineering Graduate | Aspiring Full-Stack Developer | Tech Enthusiast**  
 🎓 **ACPS || NDC || DIU** | 📍 **Passionate about Clean Code, Client-Side Privacy, and DevOps**  
@@ -12,7 +12,7 @@
 - 💻 I have experience in **Django** and am currently exploring **RESTful APIs**.  
 - 🎯 Focused on delivering **efficient solutions** with **minimal runtime** and **elegant design**.  
 
-When I’m not coding, I love embracing the tranquility of **silence** and **nature**. 🌿  
+When I’m not coding, I love embracing the tranquility of **silence** and **nature**.
 
 ---
 
