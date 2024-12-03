@@ -56,5 +56,6 @@ When I’m not coding, I love embracing the tranquility of **silence** and **nat
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:salman.ndc1@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/engrsalman/)  
 [![beecrowd](https://img.shields.io/badge/-beecrowd-20C997?logo=codeforces&logoColor=white)](https://judge.beecrowd.com/en/profile/490697) 
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/engrmohammadsalman)
 ---
 
