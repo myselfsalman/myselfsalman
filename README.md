@@ -16,9 +16,7 @@ When I’m not coding, I love embracing the tranquility of **silence** and **nat
 
 ---
 
-## 💼 **My Skillset** 
-## 🛠️ Skills
-
+## 🛠️ **My Skillset** 
 | **Category**                     | **Skills**                                                                                         |
 |-----------------------------------|---------------------------------------------------------------------------------------------------|
 | **Programming & Scripting**       | C, C++, Java, Python, PHP, JavaScript                                                             |
