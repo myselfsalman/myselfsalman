@@ -1,7 +1,7 @@
 # Assalamualaikum, Myself Engr. Mohammad Salman. 
 
-🚀 **CS Engineering Graduate | Aspiring Full-Stack Developer | Tech Enthusiast**  
-🎓 **ACPS || NDC || DIU** | 📍 **Passionate about Clean Code, Client-Side Privacy, and DevOps**  
+🚀 **M.Sc. Engg. in CSE @BUET | Published Author | ML, Data Science & Deep Learning | Python | Open to Research Collaborations**  
+🎓 **ACPS || NDC || DIU || BUET** | 📍 **Passionate about Clean Code, Client-Side Privacy, and DevOps**  
 
 ---
 
