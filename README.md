@@ -1,4 +1,4 @@
-# Assalamualaikum, Myself Engr. Mohammad Salman. 
+# Assalamualaikum, Myself Mohammad Salman. 
 
 🚀 **M.Sc. Engg. in CSE @BUET | Published Author | ML, Data Science & Deep Learning | Python | Open to Research Collaborations**  
 🎓 **ACPS || NDC || DIU || BUET** | 📍 **Passionate about Clean Code, Client-Side Privacy, and DevOps**  
