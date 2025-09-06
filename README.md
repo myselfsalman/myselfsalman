@@ -5,7 +5,7 @@
 
 ---
 
-## **About Me**
+## **About Myself**
 
 - 🛠️ I specialize in **React.js**, **TypeScript**, **Vite**, and **Tailwind CSS**.  
 - 🌐 I've built projects like **Salman's Sahra & Spice**, showcasing authentic Saudi cuisine with a seamless user experience.  
