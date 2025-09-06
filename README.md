@@ -1,11 +1,11 @@
 # Assalamualaikum, Myself Mohammad Salman. 
 
-🚀 **M.Sc. Engg. in CSE @BUET | Published Author | ML, Data Science & Deep Learning | Python | Open to Research Collaborations**  
+**M.Sc. Engg. in CSE @BUET | Published Author | ML, Data Science & Deep Learning | Python | Open to Research Collaborations**  
 🎓 **ACPS || NDC || DIU || BUET** | 📍 **Passionate about Clean Code, Client-Side Privacy, and DevOps**  
 
 ---
 
-## 🌟 **About Me**
+## **About Me**
 
 - 🛠️ I specialize in **React.js**, **TypeScript**, **Vite**, and **Tailwind CSS**.  
 - 🌐 I've built projects like **Salman's Sahra & Spice**, showcasing authentic Saudi cuisine with a seamless user experience.  
@@ -16,7 +16,7 @@ When I’m not coding, I love embracing the tranquility of **silence** and **nat
 
 ---
 
-## 🛠️ **My Skillset** 
+## **My Skillset** 
 
 | **Category**                     | **Skills**                                                                                         |
 |-----------------------------------|---------------------------------------------------------------------------------------------------|
@@ -35,25 +35,25 @@ When I’m not coding, I love embracing the tranquility of **silence** and **nat
 
 ---
 
-## 🚀 **Featured Projects**  
+## **Featured Projects**  
 
 ### [Salman's Sahra & Spice](https://github.com/myselfsalman/Salman-s-Sahra-Spice)  
-🌟 **A full-featured restaurant website showcasing authentic Saudi cuisine.**  
+**A full-featured restaurant website showcasing authentic Saudi cuisine.**  
 - Built with **React.js**, **TypeScript**, **Vite**, and **Tailwind CSS**.  
 - Includes a **table booking system** and a stunning **UI/UX design**.  
 
 ---
 
-## 🌱 **What I’m Learning**  
+## **What I’m Learning**  
 - **Advanced RESTful APIs** with **Django**.  
 - **CI/CD Pipelines** using tools like Jenkins and GitLab CI.  
 
 ---
 
-## 🤝 **My Profiles**
+## **My Profiles**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmancse/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:salman.ndc1@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:salman.ndc.buet@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/engrsalman/)  
 [![beecrowd](https://img.shields.io/badge/-beecrowd-20C997?logo=codeforces&logoColor=white)](https://judge.beecrowd.com/en/profile/490697) 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/engrmohammadsalman)
